@@ -2,3 +2,4 @@ ipython-sql
 sqlalachemy
 pyodbc
 seaborn 
+matplotlib
