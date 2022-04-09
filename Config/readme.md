@@ -9,7 +9,7 @@
 6. Gather data source from [kaggle.com](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 7. Create temporary table and insert data
 
-<p align='justify'>To run notebooks with analysis you need to configure ODBC dirver - configuration steps below.</p>
+<p align='justify'>To run notebooks with analysis you need to configure ODBC dirver - configuration steps below. (if images does not open check folder images!)</p>
 
 ![ODBC setup welcome screen](images/odbc1.jpg)
 
