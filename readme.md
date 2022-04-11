@@ -1,12 +1,11 @@
 # Super Store project 
 
-<p align='justify'>This project has been made for self improvement. I wanted to squeeze three topics into one project basing only on one csv file and some free resources. Database configuration and architecture development teached me how to convert flat csv file into structured form with normalization and relationships established. Explonatory analysis using SQL Server and Jupyter Notebooks is great opportunity for on premise data analytics of huge datasets. SQL Queries works much more better than standard operations on pandas data frames. Forecasting task has shown how powerful Seasonal ARIMA model for small time series sample. It also provided interesting insights of the SuperSotre historal sales.</p>
+<p align='justify'>This project has been made for self improvement. I wanted to squeeze three topics into one project basing only on one csv file and some free resources. Database configuration and architecture development teached me how to convert flat csv file into structured form with normalization and relationships established. Explonatory analysis using SQL Server and Jupyter Notebooks is great opportunity for on premise data analytics of huge datasets. SQL Queries works much more better than standard operations on pandas data frames. .</p>
 
 Key components of the project:
 1. Configuration of SQL Server EXPRESS
 2. Database setup and data insertion 
 3. Explonatory data analysis
-4. Sales forecasting using Seasonal ARIMA 
 
 
 
@@ -25,15 +24,6 @@ Key components of the project:
 ### 3. Explonatory data analysis
 <p aling='justify'>Notebook provides description of database and dataset. Explonatory analysis takes into account key quantitive factors of the data. Data gathered by T-SQL queries converted to pandas.DataFrame to make visualizations and output more clear. </p>
 
-### 4. Sales forecasting using Seasonal ARIMA 
-Forecasting involved:
-* Data preprocessing 
-* Data visualization and aggregation 
-* Seasonal decomposition 
-* Autocorrelation analysis 
-* Differencing
-* Comparison of ARIMA and Seasonal ARIMA 
-* Results analysis and forecasting
  
 ### Technologies used :
 * SQL Server EXPRESS 
