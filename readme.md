@@ -42,4 +42,3 @@ Key components of the project:
 ### Links and resources:
 * [Dataset source](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 * [SQL Server Setup for Jupyter](https://www.google.com/search?q=sql+server+jupytert+notebook&oq=sql+server+jupytert+notebook&aqs=edge..69i57j0i512j0i433i512l3j69i65j69i61j69i60j69i61.11350j0j1&sourceid=chrome&ie=UTF-8)
-* [Time Series Talk - fundamentals of forecasting](https://www.youtube.com/watch?v=ZoJ2OctrFLA&list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3&ab_channel=ritvikmath)
