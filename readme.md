@@ -1,4 +1,4 @@
-# Super Store project 
+# Supertore analysis project 
 
 <p align='justify'>This project has been made for self improvement. I wanted to squeeze three topics into one project basing only on one csv file and some free resources. Database configuration and architecture development teached me how to convert flat csv file into structured form with normalization and relationships established. Explonatory analysis using SQL Server and Jupyter Notebooks is great opportunity for on premise data analytics of huge datasets. SQL Queries works much more better than standard operations on pandas data frames. .</p>
 
@@ -9,10 +9,10 @@ Key components of the project:
 
 
 
-### 1. Configuration of SQL Server EXPRESS
+# 1. Configuration of SQL Server EXPRESS
 <p align='justify'>To configure SQL Server for Jupyter Notebook enter Config -> readme.md and follow instructions.</p>
 
-### 2. Database setup and data insertion 
+# 2. Database setup and data insertion 
 <p align='justify'> To recreate database schema and data follow steps: </p>
 
 1. Database -> Schema -> CreateDB.sql 
@@ -21,11 +21,11 @@ Key components of the project:
 4. Database -> Insert -> TemporaryTable.sql
 5. Database -> Insert -> DataInsertion.sql
 
-### 3. Explonatory data analysis
+# 3. Explonatory data analysis
 <p aling='justify'>Notebook provides description of database and dataset. Explonatory analysis takes into account key quantitive factors of the data. Data gathered by T-SQL queries converted to pandas.DataFrame to make visualizations and output more clear. </p>
 
  
-### Technologies used :
+# Technologies used :
 * SQL Server EXPRESS 
 * T-SQL 
 * ODBC drivers 
@@ -37,8 +37,8 @@ Key components of the project:
     * Ipython-sql
     * Matplotlib 
     * Seaborn 
-    * Statsmodels
 
-### Links and resources:
+
+# Links and resources:
 * [Dataset source](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 * [SQL Server Setup for Jupyter](https://www.google.com/search?q=sql+server+jupytert+notebook&oq=sql+server+jupytert+notebook&aqs=edge..69i57j0i512j0i433i512l3j69i65j69i61j69i60j69i61.11350j0j1&sourceid=chrome&ie=UTF-8)
