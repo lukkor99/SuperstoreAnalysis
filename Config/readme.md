@@ -11,15 +11,15 @@
 
 <p align='justify'>To run notebooks with analysis you need to configure ODBC dirver - configuration steps below. (if images does not open check folder images!)</p>
 
-![ODBC setup welcome screen](images/odbc1.jpg)
+![ODBC setup welcome screen](Images/odbc1.jpg)
 
-![ODBC setup welcome screen](images/odbc2.jpg) 
+![ODBC setup welcome screen](Images/odbc2.jpg) 
 
-![ODBC setup welcome screen](images/odbc3.jpg)
+![ODBC setup welcome screen](Images/odbc3.jpg)
 
-![ODBC setup welcome screen](images/odbc4.jpg)
+![ODBC setup welcome screen](Images/odbc4.jpg)
 
-![ODBC setup welcome screen](images/odbc5.jpg)
+![ODBC setup welcome screen](Images/odbc5.jpg)
 
 
 <p align='justify'>After that configuration you are ready to run analysis. All needed packages are included in requirements.txt which installs all dependecies via pip. If pip in not installed perform actions mentioned below: </p>
