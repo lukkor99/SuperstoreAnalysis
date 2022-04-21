@@ -3,4 +3,5 @@ matplotlib
 ipython-sql
 sqlalachemy
 pyodbc
-
+chart-studio
+kaleido
