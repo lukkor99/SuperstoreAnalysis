@@ -46,3 +46,5 @@ Key components of the project:
 # Links and resources:
 * [Dataset source](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 * [SQL Server Setup for Jupyter](https://www.google.com/search?q=sql+server+jupytert+notebook&oq=sql+server+jupytert+notebook&aqs=edge..69i57j0i512j0i433i512l3j69i65j69i61j69i60j69i61.11350j0j1&sourceid=chrome&ie=UTF-8)
+* [States names mapping](https://gist.github.com/rogerallen/1583593)
+* [Geo plot](https://www.geeksforgeeks.org/python-geographical-plotting-using-plotly/#:~:text=Geographical%20plotting%20is%20used%20for,design%20graphs%2C%20especially%20interactive%20graphs.)
